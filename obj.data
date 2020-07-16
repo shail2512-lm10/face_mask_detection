@@ -2,4 +2,4 @@ classes = 2
 train = data/train.txt
 valid = data/valid.txt
 names = data/obj.names
-backup = /shail/yolov4/backup
+backup = /mydrive/yolov4/backup
